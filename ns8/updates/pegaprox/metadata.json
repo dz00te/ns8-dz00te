@@ -1,0 +1,21 @@
+{
+  "name": "PegaProx",
+  "upstream_name": "PegaProx",
+  "description": {
+    "en": "Multi-cluster management solution for Proxmox VE",
+    "it": "Soluzione di gestione multi-cluster per Proxmox VE"
+  },
+  "categories": ["system_administration"],
+  "authors": [
+    {
+      "name": "dz00te",
+      "email": "dz00te@framassa.org"
+    }
+  ],
+  "docs": {
+    "documentation_url": "https://docs.pegaprox.com/",
+    "bug_url": "https://github.com/dz00te/ns8-pegaprox/issues",
+    "code_url": "https://github.com/dz00te/ns8-pegaprox"
+  },
+  "source": "ghcr.io/dz00te/pegaprox"
+}
