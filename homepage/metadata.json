@@ -1,5 +1,6 @@
 {
   "name": "homepage",
+  "upstream_name": "Homepage",
   "description": {
     "en": "Homepage is a modern, fully static, fast, secure fully proxied, highly customizable application dashboard."
   },
