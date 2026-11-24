@@ -1,7 +1,8 @@
 {
   "name": "patchmon",
   "description": {
-    "en": "PatchMon Monitor Linux patches across all your hosts with real-time visibility, security update tracking, and comprehensive package management."
+    "en": "PatchMon monitors Linux patches across all your hosts, with real-time visibility, security update tracking and package management.",
+    "it": "PatchMon controlla le patch Linux su tutti i tuoi host, con visibilità in tempo reale, tracciamento degli aggiornamenti di sicurezza e gestione dei pacchetti."
   },
   "categories": ["monitoring"],
   "authors": [
